@@ -14,10 +14,17 @@ const team = [
     {
         teamname: "Adhwithiya",
         name: "Ananya R Prabhu",
+
+        college: "JSS SCIENCE AND TECHNOLOGY UNIVERSITY(SJCE)",
+        batch: 2019,
+        quote: "Seize the day!",
+        photo: "https://i.ibb.co/QmLdMwK/anya-profile.jpg",
+
         college: "JSS SCIENCE AND TECHNOLOGY UNIVERSITY",
         batch: 2019,
         quote: "Seize the day!",
         photo: "https://i.ibb.co/v3BdGCB/anya-profile.jpg",
+
         github: "https://github.com/AnanyaRPrabhu",
     },
     {
